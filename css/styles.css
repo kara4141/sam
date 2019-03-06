@@ -372,20 +372,30 @@ h2, .h2 {
 	margin-left: 0;
 }
 .box-area h3{
-	font-size: 16px;
-	font-weight: 600;
+	
+font-size: 16px;
+	
+font-weight: 600;
 }
-#contactUs .heading {
-	margin-bottom: 5px;
+#contactme .heading {
+	
+margin-bottom: 5px;
 }
 .copyrights{
-	font-size: 12px;
-	color: #72cce6;
-	position: absolute;
-	bottom: 63px;
-	text-align: center;
-	right: 0;
-	left: 0;
+	
+font-size: 12px;
+	
+color: #72cce6;
+	
+position: absolute;
+	
+bottom: 63px;
+	
+text-align: center;
+	
+right: 0;
+	
+left: 0;
 }
 .styled div span {
 	display: block;
@@ -727,10 +737,10 @@ a.arrow-link:hover {
 .heading h2 {
 	color: #222;
 }
-#contactUs{
+#contactme{
 	background: #fff;
 }
-#contactUs .heading h2 {
+#contactme .heading h2 {
 	color: #656565;
 	font-weight: 600 !important;
 	font-size: 22px !important;
@@ -884,10 +894,10 @@ padding-bottom:10px;}
 	font-size: 4.5em;
 	top: 36px;
 }
-#contactUs {
+#contactme {
 /*background: #FFD500;*/;
 }
-#contactUs .btn {
+#contactme .btn {
 	border-radius: 0px !important;
 	border: 0px !important;
 	background: #092f76;

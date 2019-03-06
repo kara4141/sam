@@ -1,3 +1,3 @@
 # sam
-personal website
-test
+Personal website as Sam's Birthday gift!
+
